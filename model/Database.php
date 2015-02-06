@@ -1,8 +1,26 @@
 <?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+    class Database {
+        private $connection;
+        private $host;
+        private $password;
+        private $username;
+        private $database;
+        
+        public function __construct($host, $username, $password, $database) {
+            $this->host = $host;
+            $this->username = $username;
+            $this->password = $password;
+            $this->connection = $connection;
+        }
+        
+        public function openConnection() {
+            
+        }
+        public function closeConnection() {
+            
+        }
+        public function query() {
+            
+        }
+        
+    }
