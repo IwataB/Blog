@@ -7,6 +7,7 @@ class Database {
     private $password;
     private $username;
     private $database;
+    public $error;
 //Construction of a database
     public function __construct($host, $username, $password, $database) {
         $this->host = $host;
