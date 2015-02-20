@@ -5,11 +5,9 @@
         <group>
             <file>file:/C:/xampp/htdocs/IwataB-Blog/view/register-form.php</file>
             <file>file:/C:/xampp/htdocs/IwataB-Blog/model/config.php</file>
-            <file>file:/C:/xampp/htdocs/IwataB-Blog/view/header.php</file>
             <file>file:/C:/xampp/htdocs/IwataB-Blog/controller/create-db.php</file>
-            <file>file:/C:/xampp/htdocs/IwataB-Blog/view/navigation.php</file>
             <file>file:/C:/xampp/htdocs/IwataB-Blog/posts.php</file>
-            <file>file:/C:/xampp/htdocs/IwataB-Blog/view/footer.php</file>
+            <file>file:/C:/xampp/htdocs/IwataB-Blog/index.php</file>
             <file>file:/C:/xampp/htdocs/IwataB-Blog/view/form.php</file>
             <file>file:/C:/xampp/htdocs/IwataB-Blog/controller/create-post.php</file>
             <file>file:/C:/xampp/htdocs/IwataB-Blog/model/Database.php</file>
