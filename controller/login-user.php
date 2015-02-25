@@ -21,3 +21,4 @@ require_once(__DIR__ . "/../model/config.php");
     else {
         echo "<p>Invalud username and password</p>";
     }
+    header("Location: " . $path . "index.php");
